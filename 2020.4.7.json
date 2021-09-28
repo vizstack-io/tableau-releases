@@ -1,0 +1,94 @@
+{
+  "files": [
+    {
+      "bytes": 16738301,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/tableau-tabcmd-2020-4-7.noarch.rpm",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "b4dfdf57ba841dd7cf4c00e19118d14c",
+      "name": "tableau-tabcmd-2020-4-7.noarch.rpm",
+      "present": true,
+      "uploaded_at": 1626915661.949336
+    },
+    {
+      "bytes": 16706920,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/tableau-tabcmd-2020-4-7_all.deb",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "0688a8d2007097a1103c6e735e241f75",
+      "name": "tableau-tabcmd-2020-4-7_all.deb",
+      "present": true,
+      "uploaded_at": 1626915617.549432
+    },
+    {
+      "bytes": 2072240317,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/tableau-server-2020-4-7.x86_64.rpm",
+      "expected_md5sum": "439c986b2795a00bc669794314660e99",
+      "expected_sha1sum": "bfcef949cad37baf6f27aa386d6c133622768965",
+      "expected_sha256sum": "25bc0d147d4b2de5d873085421d2d20c5fd6f5ef60f7c8e6bebc2acca96e655c",
+      "file_md5sum": "439c986b2795a00bc669794314660e99",
+      "name": "tableau-server-2020-4-7.x86_64.rpm",
+      "present": true,
+      "uploaded_at": 1626916054.613166
+    },
+    {
+      "bytes": 2061792898,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/tableau-server-2020-4-7_amd64.deb",
+      "expected_md5sum": "33bd4ff404089a22103594f5dd2d83b4",
+      "expected_sha1sum": "9fd5a883314484002d3fb5b12b80acd4ab7671a6",
+      "expected_sha256sum": "3e9143af78342ad8ed49e76fee311ccfd05d1676a71a25b366f6b0b275ae31d9",
+      "file_md5sum": "33bd4ff404089a22103594f5dd2d83b4",
+      "name": "tableau-server-2020-4-7_amd64.deb",
+      "present": true,
+      "uploaded_at": 1626916046.281276
+    },
+    {
+      "bytes": 578425706,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/TableauDesktop-2020-4-7.dmg",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "2015fcde2cdc9cc7a3473e4dc613ce21",
+      "name": "TableauDesktop-2020-4-7.dmg",
+      "present": true,
+      "uploaded_at": 1629737190.656034
+    },
+    {
+      "bytes": 65053464,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/TableauServerTabcmd-64bit-2020-4-7.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "dbc6383319dc22dd21aeef3c1dc35019",
+      "name": "TableauServerTabcmd-64bit-2020-4-7.exe",
+      "present": true,
+      "uploaded_at": 1626915696.29567
+    },
+    {
+      "bytes": 1868055528,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/TableauServer-64bit-2020-4-7.exe",
+      "expected_md5sum": "4582ad8de44030197447938db18d7117",
+      "expected_sha1sum": "06e558a20cdacbbd3a3354d2dd52e7624f053ba3",
+      "expected_sha256sum": "9d8ae36c5040b69b6dd6ba75c8f794a5709cac308f6469ab39dbdeb397631674",
+      "file_md5sum": "4582ad8de44030197447938db18d7117",
+      "name": "TableauServer-64bit-2020-4-7.exe",
+      "present": true,
+      "uploaded_at": 1626916072.43292
+    },
+    {
+      "bytes": 474764768,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.7/TableauDesktop-64bit-2020-4-7.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "c05e9ceff191beaab9c1631e8a724270",
+      "name": "TableauDesktop-64bit-2020-4-7.exe",
+      "present": true,
+      "uploaded_at": 1626915627.349494
+    }
+  ],
+  "release_date": "07/22/2021",
+  "version": "2020.4.7"
+}

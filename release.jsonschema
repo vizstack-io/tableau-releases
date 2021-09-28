@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "/schemas/release",
+  "title": "Tableau Release",
+  "description": "A release of Tableau",
+  "type": "object",
+  "properties": {
+    "files": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/file"
+      }
+    },
+    "release_date": {
+      "description": "Date of release.",
+      "type": "string",
+      "pattern": "^[0-1][0-9]/[0-3][0-9]/[0-9]{4}"
+    },
+    "version": {
+      "description": "Version number associated with this release.",
+      "type": "string",
+      "pattern": "^([0-9]{4}\\.[1-4]\\.[0-9]+)$"
+    }
+  },
+  "required": [
+    "files",
+    "release_date",
+    "version"
+  ],
+  "$defs": {
+    "file": {
+      "title": "Tableau Downloadable File",
+      "description": "A downloadable file included as part of a numbered release.",
+      "type": "object",
+      "properties": {
+        "bytes": {
+          "description": "File size in bytes.",
+          "type": "integer"
+        },
+        "download_link": {
+          "description": "Published download link for file.",
+          "type": "string",
+          "format": "uri"
+        },
+        "expected_md5sum": {
+          "description": "The md5sum provided by Tableau for file.",
+          "type": ["string", "null"],
+          "pattern": "^([a-fA-F0-9]{32}|)$"
+        },
+        "expected_sha1sum": {
+          "description": "The sha1sum provided by Tableau for file.",
+          "type": ["string", "null"],
+          "pattern": "^([a-fA-F0-9]{40}|)$"
+        },
+        "expected_sha256sum": {
+          "description": "The sha256sum provided by Tableau for file.",
+          "type": ["string", "null"],
+          "pattern": "^([a-fA-F0-9]{64}|)$"
+        },
+        "file_md5sum": {
+          "description": "The md5sum provided by Akamai for file.",
+          "type": "string",
+          "pattern": "^([a-fA-F0-9]{32}|)$"
+        },
+        "name": {
+          "description": "The file name.",
+          "type": "string"
+        },
+        "present": {
+          "description": "False when the file is known to be missing, such as if removed by Tableau.",
+          "type": "boolean"
+        },
+        "uploaded_at": {
+          "description": "Unix timestamp (seconds) for when file was uploaded to Akamai.",
+          "type": "number"
+        }
+      },
+      "if": {
+        "properties": {
+          "present": {
+            "const": true
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "bytes",
+          "download_link",
+          "expected_md5sum",
+          "expected_sha1sum",
+          "expected_sha256sum",
+          "file_md5sum",
+          "name",
+          "present",
+          "uploaded_at"
+        ]
+      },
+      "else": {
+        "required": [
+          "download_link",
+          "expected_md5sum",
+          "expected_sha1sum",
+          "expected_sha256sum",
+          "name",
+          "present"
+        ]
+      }
+    }
+  }
+}

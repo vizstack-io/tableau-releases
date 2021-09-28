@@ -1,0 +1,83 @@
+{
+  "files": [
+    {
+      "bytes": 16737398,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.3/tableau-tabcmd-2020-4-3.noarch.rpm",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "9c5949bfb4faac28bac22843e54b6eb8",
+      "name": "tableau-tabcmd-2020-4-3.noarch.rpm",
+      "present": true,
+      "uploaded_at": 1616512207.633733
+    },
+    {
+      "bytes": 16704890,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.3/tableau-tabcmd-2020-4-3_all.deb",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "635505b1755965557fd329194594343f",
+      "name": "tableau-tabcmd-2020-4-3_all.deb",
+      "present": true,
+      "uploaded_at": 1616512186.775163
+    },
+    {
+      "bytes": 2098173811,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.3/tableau-server-2020-4-3.x86_64.rpm",
+      "expected_md5sum": "50d3609b93cc46680760ab46151713e2",
+      "expected_sha1sum": "318c697de377b957cbbc4309d11ea73f47d5798b",
+      "expected_sha256sum": "c08ae1abfc3ea8587f6510673f23d9b251a09e5bd6134090d8a06d57e39ab985",
+      "file_md5sum": "50d3609b93cc46680760ab46151713e2",
+      "name": "tableau-server-2020-4-3.x86_64.rpm",
+      "present": true,
+      "uploaded_at": 1616512480.339092
+    },
+    {
+      "bytes": 2087600304,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.3/tableau-server-2020-4-3_amd64.deb",
+      "expected_md5sum": "5317a3867960dbbbbdad2930e2cc1529",
+      "expected_sha1sum": "94f59e44af2f4d937045794b433ceafe4d23e05b",
+      "expected_sha256sum": "7f17ccd3dadb71e3c11784cf3fe750bac2f64412e0f87538de841490847ff1a7",
+      "file_md5sum": "5317a3867960dbbbbdad2930e2cc1529",
+      "name": "tableau-server-2020-4-3_amd64.deb",
+      "present": true,
+      "uploaded_at": 1616512474.246193
+    },
+    {
+      "bytes": 68174688,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.3/TableauServerTabcmd-64bit-2020-4-3.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "f4239d6c6731ee6fc20214b01f7cbc9d",
+      "name": "TableauServerTabcmd-64bit-2020-4-3.exe",
+      "present": true,
+      "uploaded_at": 1616512214.893728
+    },
+    {
+      "bytes": 1891200136,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.3/TableauServer-64bit-2020-4-3.exe",
+      "expected_md5sum": "39bdb95aef6bdeb861d33d1d062566d5",
+      "expected_sha1sum": "ba2761ebe310f5c386617d42da453f476bb558ee",
+      "expected_sha256sum": "2e158c1476b210610e7e03242e0761d9c639fa1762620537446ce6e7cb02b210",
+      "file_md5sum": "39bdb95aef6bdeb861d33d1d062566d5",
+      "name": "TableauServer-64bit-2020-4-3.exe",
+      "present": true,
+      "uploaded_at": 1616512465.417143
+    },
+    {
+      "bytes": 477495896,
+      "download_link": "https://downloads.tableau.com/esdalt/2020.4.3/TableauDesktop-64bit-2020-4-3.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "13719995bcaae31a64b3fce40cf527f2",
+      "name": "TableauDesktop-64bit-2020-4-3.exe",
+      "present": true,
+      "uploaded_at": 1616512321.179572
+    }
+  ],
+  "release_date": "03/23/2021",
+  "version": "2020.4.3"
+}
