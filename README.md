@@ -3,7 +3,7 @@ This repository provides information about Tableau releases in a machine-readabl
 
 ## files
 - known-versions.json: Contains a sorted list of known release versions, starting at 2020.4.0. The last element is the most current release of the newest major/minor.
-- <release-version>.json: Contains a dict with details about the release and its respective download files.
+- \<release-version\>.json: Contains a dict with details about the release and its respective download files.
   - files: a list of dicts for each download included in this version.
     - bytes: file size in bytes (int)
     - download_link: published download link for file (string/uri)
