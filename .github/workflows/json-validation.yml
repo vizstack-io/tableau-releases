@@ -15,5 +15,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           json_schema: release.jsonschema
           json_path_pattern: \d{4}\.\d{1}\.\d+.json$
-          send_comment: true
-          clear_comments: true
