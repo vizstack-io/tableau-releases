@@ -8,7 +8,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "880cf549123140888708bd7c60d2a6a1",
       "name": "tableau-tabcmd-2021-1-1.noarch.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619103145.268277
     },
     {
@@ -19,7 +19,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "eb3139339c4f4961602a0f3e78ffdd35",
       "name": "tableau-tabcmd-2021-1-1_all.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619103100.026134
     },
     {
@@ -30,7 +30,7 @@
       "expected_sha256sum": "09d2a505cb1fef1489469711c6805d31e79befa17b5457617a3446ab0e7c27e0",
       "file_md5sum": "0091857fa03fa638350928de33df9656",
       "name": "tableau-server-2021-1-1.x86_64.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619104042.591748
     },
     {
@@ -41,7 +41,7 @@
       "expected_sha256sum": "960510572820f3878e29396e8d32d48ae2da97019442ed7fe731212f785053fc",
       "file_md5sum": "5b79dbccc86f88dbe98379eb36c9e0b8",
       "name": "tableau-server-2021-1-1_amd64.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619103320.346452
     },
     {
@@ -52,7 +52,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "b1cab473712b13d79a904a2cca2483a7",
       "name": "TableauDesktop-2021-1-1.dmg",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619102945.951556
     },
     {
@@ -63,7 +63,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "47be91d222499f34ba43b31f3c9fc6e7",
       "name": "TableauServerTabcmd-64bit-2021-1-1.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619103181.586551
     },
     {
@@ -74,7 +74,7 @@
       "expected_sha256sum": "48a658e33f854e861ac65d8b44d6d8db10695b4af9458268e4b58613b5cc1d09",
       "file_md5sum": "4c52d5547417ba9a148aafa3cdc05bf1",
       "name": "TableauServer-64bit-2021-1-1.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619103968.172316
     },
     {
@@ -85,10 +85,11 @@
       "expected_sha256sum": null,
       "file_md5sum": "13016d01bc66e6348ec16ba35643edce",
       "name": "TableauDesktop-64bit-2021-1-1.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1619102895.814999
     }
   ],
+  "present": false,
   "release_date": "04/22/2021",
   "version": "2021.1.1"
 }

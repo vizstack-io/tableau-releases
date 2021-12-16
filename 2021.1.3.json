@@ -8,7 +8,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "86059ec677e6ecae6d32fecd06fa38cc",
       "name": "tableau-tabcmd-2021-1-3.noarch.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624497964.886375
     },
     {
@@ -19,7 +19,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "c4bd7fa6952f93fc93adf25b57eb385b",
       "name": "tableau-tabcmd-2021-1-3_all.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624497938.887803
     },
     {
@@ -30,7 +30,7 @@
       "expected_sha256sum": "fb1546c601fa127eb1afe637c680172945a065f35eebbaff113477b9d78b85be",
       "file_md5sum": "d6af35ae6a88cee2d26d57105a662cb2",
       "name": "tableau-server-2021-1-3.x86_64.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498300.011789
     },
     {
@@ -41,7 +41,7 @@
       "expected_sha256sum": "a9fc00b07ac135a15ef4b24ab1e69f8427041ec31ddec30595d8d0938e4fce3d",
       "file_md5sum": "69d77a31340a34ab419cb4ec97b210d5",
       "name": "tableau-server-2021-1-3_amd64.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498257.758579
     },
     {
@@ -52,7 +52,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "3e92e0852c1a2e17a22724091e701c3e",
       "name": "TableauServerTabcmd-64bit-2021-1-3.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624497978.087446
     },
     {
@@ -63,7 +63,7 @@
       "expected_sha256sum": "b9352ea0f5b068fdcfd679583d6ff4f36c34732c8450d004348eb6932f1a9340",
       "file_md5sum": "e1a6cc6301b7e5146d0fbd0158c8b5d8",
       "name": "TableauServer-64bit-2021-1-3.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498245.512988
     },
     {
@@ -74,10 +74,11 @@
       "expected_sha256sum": null,
       "file_md5sum": "4632e22735bf414c8925f4a7c9aac3b4",
       "name": "TableauDesktop-64bit-2021-1-3.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624497901.57099
     }
   ],
+  "present": false,
   "release_date": "06/24/2021",
   "version": "2021.1.3"
 }

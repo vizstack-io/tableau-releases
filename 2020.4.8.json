@@ -8,7 +8,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "b4b0e60e972d03d5733278e834fe869e",
       "name": "tableau-tabcmd-2020-4-8.noarch.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544227.769095
     },
     {
@@ -19,7 +19,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "adbb5cc955eef12d0b56a6c1c0b3e20d",
       "name": "tableau-tabcmd-2020-4-8_all.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544200.957981
     },
     {
@@ -30,7 +30,7 @@
       "expected_sha256sum": "d931130a797ccac514c0257b256a73e3664d6a966c0ba5180cec2e7ee1fec4ac",
       "file_md5sum": "1f55902bd272fd1da1cb06f856827333",
       "name": "tableau-server-2020-4-8.x86_64.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544643.514902
     },
     {
@@ -41,7 +41,7 @@
       "expected_sha256sum": "64fc36c070c503a71af4971f77a07c7e7759d34bef0c31ffe8565f8a8a38b379",
       "file_md5sum": "e3979175e9ab21cce143b7c16bae8a74",
       "name": "tableau-server-2020-4-8_amd64.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544622.484329
     },
     {
@@ -52,7 +52,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "2259ef48fad6e5f7428296c552fdc500",
       "name": "TableauDesktop-2020-4-8.dmg",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544164.789756
     },
     {
@@ -63,7 +63,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "4d736e67b3f5857260fa41bc6754ecaf",
       "name": "TableauServerTabcmd-64bit-2020-4-8.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544265.808108
     },
     {
@@ -74,7 +74,7 @@
       "expected_sha256sum": "4c2e86c0c702b8d26db2cb09ea4dab0a5a19c7d087829772d502563e38fad5fa",
       "file_md5sum": "fcf57329a1377a25e90be75fd57a2e40",
       "name": "TableauServer-64bit-2020-4-8.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544655.323225
     },
     {
@@ -85,10 +85,11 @@
       "expected_sha256sum": null,
       "file_md5sum": "5bf83937400ab993d75033107dc19e51",
       "name": "TableauDesktop-64bit-2020-4-8.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1630544135.346541
     }
   ],
+  "present": false,
   "release_date": "09/02/2021",
   "version": "2020.4.8"
 }
