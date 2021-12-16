@@ -45,17 +45,6 @@
       "uploaded_at": 1639610702.252424
     },
     {
-      "bytes": 24135,
-      "download_link": "https://downloads.tableau.com/esdalt/2021.1.0/tableau-server-container-setup-tool-2021.1.0.tar.gz",
-      "expected_md5sum": "5d5e038439a98c96c899136b0408dabd",
-      "expected_sha1sum": "65837eb45f514e341a7abb44272c83c5152eee19",
-      "expected_sha256sum": "bc554c35b1f319f3b58c553cb6f677c7b38e9e921eca6ed5ecc8808237709393",
-      "file_md5sum": "20be86e69737a0a3cd03748fc619f3a4",
-      "name": "tableau-server-container-setup-tool-2021.1.0.tar.gz",
-      "present": true,
-      "uploaded_at": 1639611417.217356
-    },
-    {
       "bytes": 585555152,
       "download_link": "https://downloads.tableau.com/esdalt/2021.1.9/TableauDesktop-2021-1-9.dmg",
       "expected_md5sum": null,
