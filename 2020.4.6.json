@@ -8,7 +8,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "dab14a5f687a828b462d24214b49ec76",
       "name": "tableau-tabcmd-2020-4-6.noarch.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498393.749138
     },
     {
@@ -19,7 +19,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "e1e4e9ae6daa8e7d4fa345a2d13b8e4e",
       "name": "tableau-tabcmd-2020-4-6_all.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498393.360358
     },
     {
@@ -30,7 +30,7 @@
       "expected_sha256sum": "a564afe2ca686a839394128d9e32217b937b2d017e2f3b9ae896889be99d8702",
       "file_md5sum": "a37d04c56ef81ef90ac7105df690d4b2",
       "name": "tableau-server-2020-4-6.x86_64.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498873.037228
     },
     {
@@ -41,7 +41,7 @@
       "expected_sha256sum": "fb425f1f13527207a5d45778c7e368f7e8474e11a9732eb747d25ad28d97382a",
       "file_md5sum": "3048ea340cfdc71e0b2538dcb72a68a9",
       "name": "tableau-server-2020-4-6_amd64.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498889.599667
     },
     {
@@ -52,7 +52,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "c2480b381db0542856fe5668af237404",
       "name": "TableauServerTabcmd-64bit-2020-4-6.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498397.573856
     },
     {
@@ -63,7 +63,7 @@
       "expected_sha256sum": "293148948f5f0e00ce73bb304ca80dd870878496b2bf385b939328552988f674",
       "file_md5sum": "8e8288cbbe7b15bad845ba26790437af",
       "name": "TableauServer-64bit-2020-4-6.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498829.183365
     },
     {
@@ -74,10 +74,11 @@
       "expected_sha256sum": null,
       "file_md5sum": "4be19a3a14f88430f78d1533dd8b7afc",
       "name": "TableauDesktop-64bit-2020-4-6.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1624498500.762305
     }
   ],
+  "present": false,
   "release_date": "06/24/2021",
   "version": "2020.4.6"
 }

@@ -19,7 +19,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "db49d078e6de6b37cd3f243fa1677e7b",
       "name": "tableau-tabcmd-2021-3-2.noarch.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1634176077.135273
     },
     {
@@ -30,7 +30,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "9fedc62282897abbae072f9e8f1d7272",
       "name": "tableau-tabcmd-2021-3-2_all.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1634176078.678337
     },
     {
@@ -41,7 +41,7 @@
       "expected_sha256sum": "e6ac3477ed74b7597d6939092ca4498e5499ee4f0fce0034785fbdb4eaf61088",
       "file_md5sum": "c1a432317143e442502c8c94b1fbc5a2",
       "name": "tableau-server-2021-3-2.x86_64.rpm",
-      "present": true,
+      "present": false,
       "uploaded_at": 1634176435.896842
     },
     {
@@ -52,7 +52,7 @@
       "expected_sha256sum": "fc3b56c6169aff07fb5d8310ead7123550efa1bef7d47a68d37bb48b2ff5559a",
       "file_md5sum": "728cf9908de021b5e655f8921a412055",
       "name": "tableau-server-2021-3-2_amd64.deb",
-      "present": true,
+      "present": false,
       "uploaded_at": 1634176397.570686
     },
     {
@@ -63,7 +63,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "9c9bfdd8c7ae806fb99a7348c3ca906e",
       "name": "TableauServerTabcmd-64bit-2021-3-2.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1634176084.131931
     },
     {
@@ -74,10 +74,11 @@
       "expected_sha256sum": "ab710ea6ddff5efe226bcd2e76a909d6e84d48f7695648de31d46b5b35c8d8e3",
       "file_md5sum": "43f2f26a0b2bd27289dac7c6c3e895d9",
       "name": "TableauServer-64bit-2021-3-2.exe",
-      "present": true,
+      "present": false,
       "uploaded_at": 1634176410.877723
     }
   ],
+  "present": false,
   "release_date": "10/14/2021",
   "version": "2021.3.2"
 }
