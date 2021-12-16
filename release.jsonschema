@@ -16,16 +16,47 @@
       "type": "string",
       "pattern": "^[0-1][0-9]/[0-3][0-9]/[0-9]{4}"
     },
+    "present": {
+      "description": "False when the release metadata is known to be missing, such as if removed by Tableau.",
+      "type": "boolean"
+    },
     "version": {
       "description": "Version number associated with this release.",
       "type": "string",
       "pattern": "^([0-9]{4}\\.[1-4]\\.[0-9]+)$"
     }
   },
-  "required": [
-    "files",
-    "release_date",
-    "version"
+  "anyOf": [
+    {
+      "if": {
+        "properties": {
+          "present": {
+            "const": false
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "version",
+          "present"
+        ]
+      },
+      "else": {
+        "required": [
+          "version",
+          "present",
+          "release_date",
+          "files"
+        ]
+      }
+    },
+    {
+      "required": [
+        "version",
+        "release_date",
+        "files"
+      ]
+    }
   ],
   "$defs": {
     "file": {
