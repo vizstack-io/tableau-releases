@@ -15,5 +15,6 @@ This repository provides information about Tableau releases in a machine-readabl
     - present: false when the file is known to be missing, such as if removed by Tableau (boolean)
     - uploaded_at: Unix timestamp (seconds) for when file was uploaded to Akamai (number/float)
   - release_date: date version was released (string: mm/dd/yyyy)
+  - present: false when the release is known to be absent, such as if removed by Tableau (boolean)
   - version: version number associated with this release.
 - release.jsonschema: jsonschema used for validating the format of each release file.
