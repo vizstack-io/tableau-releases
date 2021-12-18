@@ -19,7 +19,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "b64cd33afbc4cde12c17a69f6b3593ea",
       "name": "tableau-tabcmd-2020-4-0_all.deb",
-      "present": false,
+      "present": true,
       "uploaded_at": 1607975927.836949
     },
     {
