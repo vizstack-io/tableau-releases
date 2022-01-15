@@ -1,0 +1,106 @@
+{
+  "files": [
+    {
+      "bytes": 53601088,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/tableau-tabcmd-2021-4-3.noarch.rpm",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "0e9712a1da76222d3c0bff5c9f2efdb4",
+      "name": "tableau-tabcmd-2021-4-3.noarch.rpm",
+      "present": true,
+      "uploaded_at": 1642090318.250036
+    },
+    {
+      "bytes": 53512716,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/tableau-tabcmd-2021-4-3_all.deb",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "79b6c703ce3ff0ac58e0b281c5e16c6d",
+      "name": "tableau-tabcmd-2021-4-3_all.deb",
+      "present": true,
+      "uploaded_at": 1642090268.368671
+    },
+    {
+      "bytes": 2754952723,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/tableau-server-2021-4-3.x86_64.rpm",
+      "expected_md5sum": "933ef12e12b5b8fc0e37496fccc1c45f",
+      "expected_sha1sum": "5ae7ac6d9069dcf0ffbafa210db2538704d4cb69",
+      "expected_sha256sum": "f9867b05c9742faf19bb14f6dd260ef630f5d4ed16e8e9ee73c5476c2a86f609",
+      "file_md5sum": "933ef12e12b5b8fc0e37496fccc1c45f",
+      "name": "tableau-server-2021-4-3.x86_64.rpm",
+      "present": true,
+      "uploaded_at": 1642090866.081124
+    },
+    {
+      "bytes": 2739790204,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/tableau-server-2021-4-3_amd64.deb",
+      "expected_md5sum": "da3ddcb7583f5d753d608aa941d563f0",
+      "expected_sha1sum": "39adf500ac4e1c8b651b4451b419eefb6e3759f6",
+      "expected_sha256sum": "de22c2b37464cf449200eb4087fcd7ed7f716eba1ad20911d6e3ccac94b282da",
+      "file_md5sum": "da3ddcb7583f5d753d608aa941d563f0",
+      "name": "tableau-server-2021-4-3_amd64.deb",
+      "present": true,
+      "uploaded_at": 1642090794.911963
+    },
+    {
+      "bytes": 42069,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.0/tableau-server-container-setup-tool-2021.4.0.tar.gz",
+      "expected_md5sum": "5d5e038439a98c96c899136b0408dabd",
+      "expected_sha1sum": "65837eb45f514e341a7abb44272c83c5152eee19",
+      "expected_sha256sum": "bc554c35b1f319f3b58c553cb6f677c7b38e9e921eca6ed5ecc8808237709393",
+      "file_md5sum": "8da014f055a992c61dabecec07eaf5bf",
+      "name": "tableau-server-container-setup-tool-2021.4.0.tar.gz",
+      "present": true,
+      "uploaded_at": 1639610927.686586
+    },
+    {
+      "bytes": 717217063,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/TableauDesktop-2021-4-3.dmg",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "92cfda4696dd1f1dcdbe475912b445e0",
+      "name": "TableauDesktop-2021-4-3.dmg",
+      "present": true,
+      "uploaded_at": 1642089970.701016
+    },
+    {
+      "bytes": 101434792,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/TableauServerTabcmd-64bit-2021-4-3.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "4822b85cd93f212f811678a924a7543f",
+      "name": "TableauServerTabcmd-64bit-2021-4-3.exe",
+      "present": true,
+      "uploaded_at": 1642090409.402852
+    },
+    {
+      "bytes": 2647897608,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/TableauServer-64bit-2021-4-3.exe",
+      "expected_md5sum": "f55b17c110a2f390a4b319217cb6e9fd",
+      "expected_sha1sum": "2e7559c4344c76b2da2156306c7a295dab2c6ec8",
+      "expected_sha256sum": "e5adf2778da85cfdcd0efab990eb4fdb472b1c5e273e1147c15615fa2cf05105",
+      "file_md5sum": "f55b17c110a2f390a4b319217cb6e9fd",
+      "name": "TableauServer-64bit-2021-4-3.exe",
+      "present": true,
+      "uploaded_at": 1642090934.391566
+    },
+    {
+      "bytes": 701071088,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.4.3/TableauDesktop-64bit-2021-4-3.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "1a049ca52d67bbf25d52e6810dfb1caa",
+      "name": "TableauDesktop-64bit-2021-4-3.exe",
+      "present": true,
+      "uploaded_at": 1642089962.287698
+    }
+  ],
+  "present": true,
+  "release_date": "01/13/2022",
+  "version": "2021.4.3"
+}
