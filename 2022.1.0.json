@@ -1,0 +1,106 @@
+{
+  "files": [
+    {
+      "bytes": 55971839,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/tableau-tabcmd-2022-1-0.noarch.rpm",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "5b0f7b78e47dedad9424fe7ff5f95935",
+      "name": "tableau-tabcmd-2022-1-0.noarch.rpm",
+      "present": true,
+      "uploaded_at": 1648657230.884721
+    },
+    {
+      "bytes": 55879882,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/tableau-tabcmd-2022-1-0_all.deb",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "24c8add725f44b43d160abda3fa03681",
+      "name": "tableau-tabcmd-2022-1-0_all.deb",
+      "present": true,
+      "uploaded_at": 1648657228.885155
+    },
+    {
+      "bytes": 2872714913,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/tableau-server-2022-1-0.x86_64.rpm",
+      "expected_md5sum": "895aa5b8fe568759fc454a333b24709f",
+      "expected_sha1sum": "7f4774fad787a267fec90c07207c8ab20c8ada81",
+      "expected_sha256sum": "51be5e6b12852feb540c73973d152d99555e04a95c635232f18981b9147ca90f",
+      "file_md5sum": "895aa5b8fe568759fc454a333b24709f",
+      "name": "tableau-server-2022-1-0.x86_64.rpm",
+      "present": true,
+      "uploaded_at": 1648657567.078176
+    },
+    {
+      "bytes": 2857144000,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/tableau-server-2022-1-0_amd64.deb",
+      "expected_md5sum": "4a96c75d472b44980464a12d947e2048",
+      "expected_sha1sum": "f86a316e911d390772c483e64b5071725d4a0e37",
+      "expected_sha256sum": "90ded8d6f03a10ced0149d65145fc2d754fff52bfb3cb73afbbb2fc8dd9af63d",
+      "file_md5sum": "4a96c75d472b44980464a12d947e2048",
+      "name": "tableau-server-2022-1-0_amd64.deb",
+      "present": true,
+      "uploaded_at": 1648657585.857309
+    },
+    {
+      "bytes": 40065,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/tableau-server-container-setup-tool-2022.1.0.tar.gz",
+      "expected_md5sum": "70088860aa08275cdf69c281c256f50f",
+      "expected_sha1sum": "5b883baf5b48f41f8046a892f698620e5de3a052",
+      "expected_sha256sum": "a4968aa0175430aee635e6d56d022e7d0ee2c871aa9097dfab9e1170a77c0e5b",
+      "file_md5sum": "70088860aa08275cdf69c281c256f50f",
+      "name": "tableau-server-container-setup-tool-2022.1.0.tar.gz",
+      "present": true,
+      "uploaded_at": 1648656957.768193
+    },
+    {
+      "bytes": 580837997,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/TableauDesktop-2022-1-0.dmg",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "b0a99afd32cad936aeb1c13239d8cc7c",
+      "name": "TableauDesktop-2022-1-0.dmg",
+      "present": true,
+      "uploaded_at": 1648656389.227221
+    },
+    {
+      "bytes": 103702192,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/TableauServerTabcmd-64bit-2022-1-0.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "61ebcac0fae194bb132f3bc3535e8efd",
+      "name": "TableauServerTabcmd-64bit-2022-1-0.exe",
+      "present": true,
+      "uploaded_at": 1648657238.266779
+    },
+    {
+      "bytes": 2820838888,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/TableauServer-64bit-2022-1-0.exe",
+      "expected_md5sum": "d65bdc064455ddadb7aa0ead9f5da7da",
+      "expected_sha1sum": "43d3cda7bae34fae7dbd470e57e22b4061a7eea8",
+      "expected_sha256sum": "43d548509ab506f5dc0732e14fe49116230b24b60796f07d0cb0cce42f5f98b0",
+      "file_md5sum": "d65bdc064455ddadb7aa0ead9f5da7da",
+      "name": "TableauServer-64bit-2022-1-0.exe",
+      "present": true,
+      "uploaded_at": 1648657535.051989
+    },
+    {
+      "bytes": 534557312,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.0/TableauDesktop-64bit-2022-1-0.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "2d0301e86dabf1d4682b631fa97ddcbd",
+      "name": "TableauDesktop-64bit-2022-1-0.exe",
+      "present": true,
+      "uploaded_at": 1648656384.156343
+    }
+  ],
+  "present": true,
+  "release_date": "03/30/2022",
+  "version": "2022.1.0"
+}
