@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 536608716,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.2.11/TableauDesktop-2021-2-11.dmg",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "17fcfc961b6ada63550fbb9408cec78c",
+      "name": "TableauDesktop-2021-2-11.dmg",
+      "present": true,
+      "uploaded_at": 1651165281.60465
+    },
+    {
+      "bytes": 502669808,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.2.11/TableauDesktop-64bit-2021-2-11.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "434ac13a15f03cc19664deb4a12f9367",
+      "name": "TableauDesktop-64bit-2021-2-11.exe",
+      "present": true,
+      "uploaded_at": 1651165273.387722
+    }
+  ],
+  "present": true,
+  "release_date": "04/28/2022",
+  "version": "2021.2.11"
+}
