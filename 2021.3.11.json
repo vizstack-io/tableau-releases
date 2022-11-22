@@ -8,7 +8,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "c4ec84a1b0ce7c7b6c58137b580e34bb",
       "name": "tableau-tabcmd-2021-3-11.noarch.rpm",
-      "present": false,
+      "present": true,
       "uploaded_at": 1651536415.222278
     },
     {
@@ -19,7 +19,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "b4096324f2de67910a5986fa531782c0",
       "name": "tableau-tabcmd-2021-3-11_all.deb",
-      "present": false,
+      "present": true,
       "uploaded_at": 1651536420.371877
     },
     {
@@ -30,7 +30,7 @@
       "expected_sha256sum": "4b81f9689710453f23ba25b72da90d7200e14f82354697ab97f1f179b47d8553",
       "file_md5sum": "746c9eacd2a5acce728161d030f61bed",
       "name": "tableau-server-2021-3-11.x86_64.rpm",
-      "present": false,
+      "present": true,
       "uploaded_at": 1651536818.53567
     },
     {
@@ -41,7 +41,7 @@
       "expected_sha256sum": "c8e8d94cf8e1a54c0b04ff4daa2d893bcdb73abbf3e4dcd1903bbbc03c37465f",
       "file_md5sum": "e3d119492a18d42b7a41d0e897ba618a",
       "name": "tableau-server-2021-3-11_amd64.deb",
-      "present": false,
+      "present": true,
       "uploaded_at": 1651536800.586623
     },
     {
@@ -52,7 +52,7 @@
       "expected_sha256sum": "fa77076ca4bb7bcfefedf6f20bef1ac52a2f890a16071c3c976476a1bbfc3bbf",
       "file_md5sum": "621d2833a91a005e882538f3a0dbcde9",
       "name": "tableau-server-container-setup-tool-2021.3.1.tar.gz",
-      "present": false,
+      "present": true,
       "uploaded_at": 1645664825.129483
     },
     {
@@ -63,7 +63,7 @@
       "expected_sha256sum": null,
       "file_md5sum": "189e5e410600ddc276953aac4082416e",
       "name": "TableauServerTabcmd-64bit-2021-3-11.exe",
-      "present": false,
+      "present": true,
       "uploaded_at": 1651536424.936558
     },
     {
@@ -74,7 +74,7 @@
       "expected_sha256sum": "f5dbc1129ed62afad8d06b9b3f7a44be1de533620a280894866e34ce2d15be43",
       "file_md5sum": "b47a6ab440f48376a3b82c743ba15ff9",
       "name": "TableauServer-64bit-2021-3-11.exe",
-      "present": false,
+      "present": true,
       "uploaded_at": 1651536770.389008
     }
   ],
