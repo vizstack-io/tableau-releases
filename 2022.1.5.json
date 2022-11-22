@@ -1,39 +1,6 @@
 {
   "files": [
     {
-      "bytes": 56050368,
-      "download_link": "https://downloads.tableau.com/esdalt/2022.1.5/tableau-tabcmd-2022-1-5.noarch.rpm",
-      "expected_md5sum": null,
-      "expected_sha1sum": null,
-      "expected_sha256sum": null,
-      "file_md5sum": "e999b9f989097709a488fadc73df8d59",
-      "name": "tableau-tabcmd-2022-1-5.noarch.rpm",
-      "present": true,
-      "uploaded_at": 1661887313.744841
-    },
-    {
-      "bytes": 55957890,
-      "download_link": "https://downloads.tableau.com/esdalt/2022.1.5/tableau-tabcmd-2022-1-5_all.deb",
-      "expected_md5sum": null,
-      "expected_sha1sum": null,
-      "expected_sha256sum": null,
-      "file_md5sum": "437aeeb3e10ca0ac2ee5603b427bc420",
-      "name": "tableau-tabcmd-2022-1-5_all.deb",
-      "present": true,
-      "uploaded_at": 1661887313.512341
-    },
-    {
-      "bytes": 40110,
-      "download_link": "https://downloads.tableau.com/esdalt/2022.1.1/tableau-server-container-setup-tool-2022.1.1.tar.gz",
-      "expected_md5sum": "a0810d1735d290965f967d18d96bb1be",
-      "expected_sha1sum": "4b1a8b9c38d3038e6e82c8c3015ec8ce72b4d5d8",
-      "expected_sha256sum": "35ef74e441936c0be701817e6b95784b1ed1afd4fe8a43564f67b379da99d361",
-      "file_md5sum": "a0810d1735d290965f967d18d96bb1be",
-      "name": "tableau-server-container-setup-tool-2022.1.1.tar.gz",
-      "present": true,
-      "uploaded_at": 1653336826.805569
-    },
-    {
       "bytes": 581079743,
       "download_link": "https://downloads.tableau.com/esdalt/2022.1.5/TableauDesktop-2022-1-5.dmg",
       "expected_md5sum": null,
@@ -43,17 +10,6 @@
       "name": "TableauDesktop-2022-1-5.dmg",
       "present": true,
       "uploaded_at": 1661805805.978578
-    },
-    {
-      "bytes": 103118632,
-      "download_link": "https://downloads.tableau.com/esdalt/2022.1.5/TableauServerTabcmd-64bit-2022-1-5.exe",
-      "expected_md5sum": null,
-      "expected_sha1sum": null,
-      "expected_sha256sum": null,
-      "file_md5sum": "721246addda8efc7c3bd5b8c08294f27",
-      "name": "TableauServerTabcmd-64bit-2022-1-5.exe",
-      "present": true,
-      "uploaded_at": 1661887317.682523
     },
     {
       "bytes": 534523360,
@@ -68,6 +24,6 @@
     }
   ],
   "present": true,
-  "release_date": "08/29/2022",
+  "release_date": "09/02/2022",
   "version": "2022.1.5"
 }
