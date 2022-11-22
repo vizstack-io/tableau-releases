@@ -1,6 +1,61 @@
 {
   "files": [
     {
+      "bytes": 53464355,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.3.6/tableau-tabcmd-2021-3-6.noarch.rpm",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "47cc4832b26f27cf749611989a5edf71",
+      "name": "tableau-tabcmd-2021-3-6.noarch.rpm",
+      "present": true,
+      "uploaded_at": 1639929659.165558
+    },
+    {
+      "bytes": 53377930,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.3.6/tableau-tabcmd-2021-3-6_all.deb",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "253cdbe6b8de86ad6afe5eafc2589229",
+      "name": "tableau-tabcmd-2021-3-6_all.deb",
+      "present": true,
+      "uploaded_at": 1639929622.605885
+    },
+    {
+      "bytes": 2700403534,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.3.6/tableau-server-2021-3-6.x86_64.rpm",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "3cda8d9f416dd1476aaffba6bb259b95",
+      "name": "tableau-server-2021-3-6.x86_64.rpm",
+      "present": true,
+      "uploaded_at": 1639930268.039443
+    },
+    {
+      "bytes": 2685211804,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.3.6/tableau-server-2021-3-6_amd64.deb",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "1ca5c0cd480be815c9d0ec4b3e1ce517",
+      "name": "tableau-server-2021-3-6_amd64.deb",
+      "present": true,
+      "uploaded_at": 1639930262.658659
+    },
+    {
+      "bytes": 57005,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.3.0/tableau-server-container-setup-tool-2021.3.0.tar.gz",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "fdea3268bbed871065fba7417b1ffd07",
+      "name": "tableau-server-container-setup-tool-2021.3.0.tar.gz",
+      "present": true,
+      "uploaded_at": 1639605438.889858
+    },
+    {
       "bytes": 636647270,
       "download_link": "https://downloads.tableau.com/esdalt/2021.3.6/TableauDesktop-2021-3-6.dmg",
       "expected_md5sum": null,
@@ -10,6 +65,28 @@
       "name": "TableauDesktop-2021-3-6.dmg",
       "present": true,
       "uploaded_at": 1639929734.927401
+    },
+    {
+      "bytes": 100939616,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.3.6/TableauServerTabcmd-64bit-2021-3-6.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "5e96ca906cf4264b303c6b35a9a498c7",
+      "name": "TableauServerTabcmd-64bit-2021-3-6.exe",
+      "present": true,
+      "uploaded_at": 1639929713.995182
+    },
+    {
+      "bytes": 2499453840,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.3.6/TableauServer-64bit-2021-3-6.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "272dc565c95f5310fcd26d83fd95b90a",
+      "name": "TableauServer-64bit-2021-3-6.exe",
+      "present": true,
+      "uploaded_at": 1639930390.137222
     },
     {
       "bytes": 522698056,

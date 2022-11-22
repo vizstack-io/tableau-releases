@@ -52,7 +52,7 @@
       "expected_sha256sum": "11d0e89528e20cc19fc3c123df2ffab89f876c3f9ea1845390d006d47c7f5dde",
       "file_md5sum": "fdea3268bbed871065fba7417b1ffd07",
       "name": "tableau-server-container-setup-tool-2021.3.0.tar.gz",
-      "present": false,
+      "present": true,
       "uploaded_at": 1639605438.889858
     },
     {
