@@ -1,50 +1,6 @@
 {
   "files": [
     {
-      "bytes": 16934473,
-      "download_link": "https://downloads.tableau.com/esdalt/2021.1.12/tableau-tabcmd-2021-1-12.noarch.rpm",
-      "expected_md5sum": null,
-      "expected_sha1sum": null,
-      "expected_sha256sum": null,
-      "file_md5sum": "f4aee838ebd3629fa9ad052ed4769d33",
-      "name": "tableau-tabcmd-2021-1-12.noarch.rpm",
-      "present": true,
-      "uploaded_at": 1645663700.308979
-    },
-    {
-      "bytes": 16903556,
-      "download_link": "https://downloads.tableau.com/esdalt/2021.1.12/tableau-tabcmd-2021-1-12_all.deb",
-      "expected_md5sum": null,
-      "expected_sha1sum": null,
-      "expected_sha256sum": null,
-      "file_md5sum": "eef56de166cf0d545c27b75370565254",
-      "name": "tableau-tabcmd-2021-1-12_all.deb",
-      "present": true,
-      "uploaded_at": 1645663675.834981
-    },
-    {
-      "bytes": 2080803958,
-      "download_link": "https://downloads.tableau.com/esdalt/2021.1.12/tableau-server-2021-1-12.x86_64.rpm",
-      "expected_md5sum": "d0ae39a6bdf3913e7664cbec65348e9b",
-      "expected_sha1sum": "3112474f8159294655289dfd8e44c12f53584fcb",
-      "expected_sha256sum": "5847cf12d4734d154ca3a350800c3dc9a2f5baab0a7429bce95037192ee4cf34",
-      "file_md5sum": "d0ae39a6bdf3913e7664cbec65348e9b",
-      "name": "tableau-server-2021-1-12.x86_64.rpm",
-      "present": true,
-      "uploaded_at": 1645664221.148175
-    },
-    {
-      "bytes": 2070251748,
-      "download_link": "https://downloads.tableau.com/esdalt/2021.1.12/tableau-server-2021-1-12_amd64.deb",
-      "expected_md5sum": "a8aae134ac61537dab3e2d86ea46d0dd",
-      "expected_sha1sum": "6075418e9f6e40ac78cba3c93189e950dd7bd4d3",
-      "expected_sha256sum": "6387660982e422f6f5ba25f257dcba4822f56f0288d5fe7787ee9a681b5cbebd",
-      "file_md5sum": "a8aae134ac61537dab3e2d86ea46d0dd",
-      "name": "tableau-server-2021-1-12_amd64.deb",
-      "present": true,
-      "uploaded_at": 1645664174.35396
-    },
-    {
       "bytes": 550003872,
       "download_link": "https://downloads.tableau.com/esdalt/2021.1.12/TableauDesktop-2021-1-12.dmg",
       "expected_md5sum": null,
@@ -54,28 +10,6 @@
       "name": "TableauDesktop-2021-1-12.dmg",
       "present": true,
       "uploaded_at": 1645663770.430263
-    },
-    {
-      "bytes": 65437008,
-      "download_link": "https://downloads.tableau.com/esdalt/2021.1.12/TableauServerTabcmd-64bit-2021-1-12.exe",
-      "expected_md5sum": null,
-      "expected_sha1sum": null,
-      "expected_sha256sum": null,
-      "file_md5sum": "ca0341267ce9264012ccdf83997376f1",
-      "name": "TableauServerTabcmd-64bit-2021-1-12.exe",
-      "present": true,
-      "uploaded_at": 1645663736.832448
-    },
-    {
-      "bytes": 1898202248,
-      "download_link": "https://downloads.tableau.com/esdalt/2021.1.12/TableauServer-64bit-2021-1-12.exe",
-      "expected_md5sum": "73b242e97d87e266590a695f84adcd1a",
-      "expected_sha1sum": "644234e71ee98cf12b2f086bbcdb660078ee4040",
-      "expected_sha256sum": "7907a9b5e4e833436b8c8c9a634bad804d065d928aa9508c06e0d0f5d234521c",
-      "file_md5sum": "73b242e97d87e266590a695f84adcd1a",
-      "name": "TableauServer-64bit-2021-1-12.exe",
-      "present": true,
-      "uploaded_at": 1645664243.496018
     },
     {
       "bytes": 475047600,
