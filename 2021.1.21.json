@@ -1,0 +1,95 @@
+{
+  "files": [
+    {
+      "bytes": 17025717,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/tableau-tabcmd-2021-1-21.noarch.rpm",
+      "expected_md5sum": "9f8cc7b0337391900d544366dd2113d0",
+      "expected_sha1sum": "fae29ea34dffdf836fc700da90f1a3e08be8b795",
+      "expected_sha256sum": "efe83b29e10e0b479e4d7c6d6bbd22a1903ab97503bddad463f2d0bb39a1896a",
+      "file_md5sum": "9f8cc7b0337391900d544366dd2113d0",
+      "name": "tableau-tabcmd-2021-1-21.noarch.rpm",
+      "present": true,
+      "uploaded_at": 1668637622.304692
+    },
+    {
+      "bytes": 16991602,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/tableau-tabcmd-2021-1-21_all.deb",
+      "expected_md5sum": "c47b8292fc8e0a225408ed69dacadf75",
+      "expected_sha1sum": "10baeccea883feb887a9b4fcc9da80a0a63d0384",
+      "expected_sha256sum": "b26baf9f8f1f8f35a956dffede6f8a7a0ccd2fe888fb663f54d8652f520452f0",
+      "file_md5sum": "c47b8292fc8e0a225408ed69dacadf75",
+      "name": "tableau-tabcmd-2021-1-21_all.deb",
+      "present": true,
+      "uploaded_at": 1668637543.592354
+    },
+    {
+      "bytes": 2108748965,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/tableau-server-2021-1-21.x86_64.rpm",
+      "expected_md5sum": "c97899644f02cde14734e63d5d0f86bc",
+      "expected_sha1sum": "8b193bd46ba44d8038abb89efc06a3fee65bf0f8",
+      "expected_sha256sum": "0fbc5f872dcfc63992564fee53bbe6d72b9301ba14c3e9eb0990bbd19491b2d4",
+      "file_md5sum": "c97899644f02cde14734e63d5d0f86bc",
+      "name": "tableau-server-2021-1-21.x86_64.rpm",
+      "present": true,
+      "uploaded_at": 1668637968.11619
+    },
+    {
+      "bytes": 2098267184,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/tableau-server-2021-1-21_amd64.deb",
+      "expected_md5sum": "edb23b9a7c1f2463cb97eb1c6efb44ae",
+      "expected_sha1sum": "1b979fd1291c42fd66a80c08bf3a30d0cd9027d3",
+      "expected_sha256sum": "5d822482a83873f9316a05eefe3ed01bc730751985cb78e6b596850afa4d2748",
+      "file_md5sum": "edb23b9a7c1f2463cb97eb1c6efb44ae",
+      "name": "tableau-server-2021-1-21_amd64.deb",
+      "present": true,
+      "uploaded_at": 1668637936.844572
+    },
+    {
+      "bytes": 550046283,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/TableauDesktop-2021-1-21.dmg",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "643f88613c9de55378c821e71d8fd6a3",
+      "name": "TableauDesktop-2021-1-21.dmg",
+      "present": true,
+      "uploaded_at": 1668637507.08477
+    },
+    {
+      "bytes": 64936656,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/TableauServerTabcmd-64bit-2021-1-21.exe",
+      "expected_md5sum": "2c62ea82c3e6eb207e04d66e64d3a9f3",
+      "expected_sha1sum": "7b3fee7a199ef1d41001e84b525782c2955d421b",
+      "expected_sha256sum": "f727da415fce216a6f19f79102c5e95c6cd6cb7abe793d22ca0d124d2689a9a7",
+      "file_md5sum": "2c62ea82c3e6eb207e04d66e64d3a9f3",
+      "name": "TableauServerTabcmd-64bit-2021-1-21.exe",
+      "present": true,
+      "uploaded_at": 1668637636.212373
+    },
+    {
+      "bytes": 1917197568,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/TableauServer-64bit-2021-1-21.exe",
+      "expected_md5sum": "b89d2de81383b94841aebc81f4a25ecc",
+      "expected_sha1sum": "7526295f518978bbf25752a9b69608ad7501854a",
+      "expected_sha256sum": "70a46d19de75cf02643a0d6764e5cd872d23c876cf68e96d5b4398572e0d625d",
+      "file_md5sum": "b89d2de81383b94841aebc81f4a25ecc",
+      "name": "TableauServer-64bit-2021-1-21.exe",
+      "present": true,
+      "uploaded_at": 1668637995.486571
+    },
+    {
+      "bytes": 475057704,
+      "download_link": "https://downloads.tableau.com/esdalt/2021.1.21/TableauDesktop-64bit-2021-1-21.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "89685dcbd352280c7f8f3c86590545c1",
+      "name": "TableauDesktop-64bit-2021-1-21.exe",
+      "present": true,
+      "uploaded_at": 1668637458.365302
+    }
+  ],
+  "present": true,
+  "release_date": "11/16/2022",
+  "version": "2021.1.21"
+}
