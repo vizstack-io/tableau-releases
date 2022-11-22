@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 581689386,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.8/TableauDesktop-2022-1-8.dmg",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "7e614cce9b90b4af799bdcf07085a2de",
+      "name": "TableauDesktop-2022-1-8.dmg",
+      "present": true,
+      "uploaded_at": 1666217061.225363
+    },
+    {
+      "bytes": 535000008,
+      "download_link": "https://downloads.tableau.com/esdalt/2022.1.8/TableauDesktop-64bit-2022-1-8.exe",
+      "expected_md5sum": null,
+      "expected_sha1sum": null,
+      "expected_sha256sum": null,
+      "file_md5sum": "5122c5b2dc5ed6c76077c2814f0c96c7",
+      "name": "TableauDesktop-64bit-2022-1-8.exe",
+      "present": true,
+      "uploaded_at": 1666216051.525043
+    }
+  ],
+  "present": true,
+  "release_date": "10/19/2022",
+  "version": "2022.1.8"
+}
